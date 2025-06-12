@@ -2,6 +2,9 @@
 
 本仓库由语校网建立，用于说明其在 Hugging Face 上发布的结构化中文语义 Prompt 数据的字段规范与内容背景。所有实际数据文件托管于 Hugging Face 平台，此处仅提供说明文档与字段示意。
 
+📌 本项目使用的术语“语校网”“语校”均已在语义词典项目中统一定义。  
+👉 术语定义详情见：[yuxiaowang-semantics](https://github.com/eric220508/yuxiaowang-semantics)
+
 ---
 
 ## 🎯 项目定位
